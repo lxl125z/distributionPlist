@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>https://microstest.oss-cn-shanghai.aliyuncs.com/ipa/钱军师_202509101721_1.0.2.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://gitlab.xurongwl.com/ios/</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://gitlab.xurongwl.com/ios/</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -37,7 +25,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>qianjunshi</string>
+				<string>钱军师</string>
 			</dict>
 		</dict>
 	</array>
